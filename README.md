@@ -7,7 +7,7 @@
   
 # HackGreenville.com
 
-The official repository for Greenville, SC's tech community website, maintained by [Code for Greenville](https://github.com/codeforgreenville).    
+The official repository for Greenville, SC's tech community website, maintained by [Code for Greenville](https://github.com/HackGreenville).    
     
 [https://hackgreenville.com](https://hackgreenville.com/join-slack)
     
@@ -15,9 +15,9 @@ The official repository for Greenville, SC's tech community website, maintained 
 
 Our goal is to connect people to the tech-related community in the Greenville area. We do this by providing information on events and organizations in the area, as well as directing people to [sign-up for the HackGreenville Slack](https://hackgreenville.com/join-slack).    
     
-The organization data is queried from Code for Greenville's [organizations API](https://github.com/codeforgreenville/OpenData/blob/master/ORGANIZATIONS_API.md).
+The organization data is queried from Code for Greenville's [organizations API](https://github.com/HackGreenville/OpenData/blob/master/ORGANIZATIONS_API.md).
 
-Then, for all of these organization, the events can be are queried from the [events API](https://github.com/codeforgreenville/upstate_tech_cal_service).    
+Then, for all of these organization, the events can be are queried from the [events API](https://github.com/HackGreenville/upstate_tech_cal_service).    
 
 
 ## Forking and Contributing
